@@ -1,4 +1,4 @@
-call plug#begin('~/.config/nvim/plugged')
+call plug#begin('plugged')
 
 Plug 'dracula/vim'
 Plug 'tpope/vim-abolish'
